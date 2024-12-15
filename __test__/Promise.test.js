@@ -1,5 +1,5 @@
 import Promise from "../promise.js";
-
+// jest
 describe("Promise Implementation", () => {
 	describe("Basic Promise Functionality", () => {
 		test("should create a new promise and resolve it", (done) => {
