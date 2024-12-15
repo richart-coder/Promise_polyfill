@@ -1,4 +1,5 @@
 import Promise from "../promise.js";
+// jest
 
 describe("Promise Implementation", () => {
 	describe("Basic Promise Functionality", () => {
